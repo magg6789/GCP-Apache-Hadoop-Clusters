@@ -1,0 +1,2 @@
+# GCP-APache-Hadoop-Clusters
+The Apache Hadoop Ecosystem is a suite that is constructed of various tools that bring forwards solutions to big data problems. There are major components within the Apache Hadoop Ecosystem, some of the most vital being: Hadoop Distributed File System (HDFS), MapReduce, YARN, Hive, and Spark. The Hadoop Ecosystem provides reliable shared storage through HDFS and a strong analysis system via MapReduce and Spark.
